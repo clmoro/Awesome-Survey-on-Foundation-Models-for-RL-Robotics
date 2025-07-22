@@ -5,6 +5,7 @@ We appreciate any useful suggestions for improvement of this paper list or surve
 ## Relevant Surveys
 | Title                                                                 | Venue                  | Date | Source |
 |------------------------------------------------------------------------|------------------------|------|------|
+| [The Duality of Generative AI and Reinforcement Learning in Robotics: A Review](https://arxiv.org/abs/2410.16411v2)    | arxiv    | 2024 | [Web](https://github.com/clmoro/awesome-robotics-genai-reinforcement-learning-integration) |
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)    | arxiv    | 2024 | [Web](https://github.com/yueen-ma/awesome-vla)|
 | [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)    | arxiv    | 2024 | [Web](https://github.com/jun0wanan/awesome-large-multimodal-agents)|
 | [Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568)    | arxiv    | 2024 | - |
@@ -13,7 +14,6 @@ We appreciate any useful suggestions for improvement of this paper list or surve
 | [A Survey on Robotics with Foundation Models: toward Embodied AI](https://arxiv.org/abs/2402.02385)    | arxiv   | 2024 | - |
 | [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)    | arxiv   | 2024 | - |
 | [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)    | arxiv    | 2023 | [Web](https://robotics-fm-survey.github.io/) |
-
 
 
 
